@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @optic1914
-- 👀 I’m interested in becoming a Data science Engineer.
+- 👀 I’m interested in becoming a Generative AI developer
 - 🌱 I’m currently learning Python and its libraries to be implemented on Data.
-- 💞️ I’m looking to collaborate on Virtual Reality and Motion Detecting and Capturing.
+- 💞️ I’m Keen to learn more about Virtual Reality and Motion Detecting and Capturing.
 - 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Gmail: grvvsarath1914@gmail.com
 
 <!---
 optic1914/optic1914 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
